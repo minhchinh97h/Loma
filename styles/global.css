@@ -1,0 +1,20 @@
+*,
+::after,
+::before {
+  box-sizing: border-box;
+  font-family: Helvetica, 'Helvetica Neue', Arial, 'Lucida Grande', sans-serif;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  overflow: auto;
+}
+
+p {
+  margin: 0;
+}
+
+#__next {
+  position: relative;
+}
